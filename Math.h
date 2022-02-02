@@ -8,6 +8,7 @@
 namespace Math
 {
 	const float pi = 3.1415926535f;
+	const float twoPi = pi * 2.0f;
 	const float infinity = std::numeric_limits<float>::infinity();
 	const float negInfinity = -std::numeric_limits<float>::infinity();
 

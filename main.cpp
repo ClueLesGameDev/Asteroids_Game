@@ -2,12 +2,14 @@
 
 int main(int argc, char** argv)
 {
-	Game game;
-	bool success = game.Initialize();
-	if (success)
+	Game* game = new Game();
+
+	if (game->Initialize())
 	{
-		game.RunLoop();
+		game->Run();
 	}
-	game.Shutdown();
+
+	game->Exit();
+
 	return 0;
 }

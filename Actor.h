@@ -32,6 +32,8 @@ public:
 
 	void		SetPosition(Vector2 position) { mPosition = position; }
 
+	void SetState(State state) { mState = state; }
+
 	//function to return the rotated value.
 	Vector2 GetForward() const
 	{

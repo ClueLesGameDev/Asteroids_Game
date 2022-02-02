@@ -1,0 +1,49 @@
+﻿  Actor.cpp
+  Asteroid.cpp
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(13,43): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(15,38): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(23,19): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+  CircleComponent.cpp
+  Component.cpp
+  Game.cpp
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(13,43): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(15,38): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(23,19): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\Game.cpp(18,16): warning C4150: deletion of pointer to incomplete type 'SDL_Window'; no destructor called
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_video.h(90): message : see declaration of 'SDL_Window'
+D:\GIt\C++\AsteroidsGame\Asteroids\Game.cpp(19,18): warning C4150: deletion of pointer to incomplete type 'SDL_Renderer'; no destructor called
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\Game.cpp(117,18): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  Laser.cpp
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(13,43): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(15,38): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(23,19): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+  MoveComponent.cpp
+  Ship.cpp
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(13,43): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(15,38): warning C4099: 'SDL_Renderer': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(23,19): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+  SpriteComponent.cpp
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131,20): warning C4099: 'SDL_Renderer': type name first seen using 'class' now seen using 'struct'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(15): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(132,41): warning C4099: 'SDL_Renderer': type name first seen using 'class' now seen using 'struct'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(131): message : see declaration of 'SDL_Renderer'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137,19): warning C4099: 'SDL_Texture': type name first seen using 'class' now seen using 'struct'
+D:\GIt\C++\AsteroidsGame\Asteroids\SpriteComponent.h(13): message : see declaration of 'SDL_Texture'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(138,39): warning C4099: 'SDL_Texture': type name first seen using 'class' now seen using 'struct'
+D:\GIt\C++\AsteroidsGame\Asteroids\External Dependencies\SDL_2.0\include\SDL_render.h(137): message : see declaration of 'SDL_Texture'
+  Generating Code...
+D:\GIt\C++\AsteroidsGame\Asteroids\CircleComponent.cpp(17): warning C4172: returning address of local variable or temporary
+  Asteroids.vcxproj -> D:\GIt\C++\AsteroidsGame\Asteroids\x64\Debug\Asteroids.exe
